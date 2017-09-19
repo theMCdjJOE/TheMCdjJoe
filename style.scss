@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: red;
+	background: url(https://www.orangebikes.co.uk/images/2017_bikes/jpegs/Stage-6-2017-3Q-158.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100%;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
